@@ -17,6 +17,7 @@ function App() {
         await delay(2000);
         setLoadingValue(50);
 
+        // Add api key here (Recommanded:- MOCK-API)
         const res = await fetch("add_your_api_here");
         const data = await res.json();
         setLoadingValue(70);
