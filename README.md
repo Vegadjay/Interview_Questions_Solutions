@@ -7,15 +7,20 @@ This repository contains practice problems and solutions for machine coding roun
 
 ## Problems
 
-### 1. Employee Database Management System
+### 1. Employee Database Management System.
 > Frequently asked in technical interviews across many companies
 - [View Solution](https://github.com/Vegadjay/Interview_Questions_Solutions/tree/main/Employee-Database-Management-Question)
 - [Additional Resource on GeeksforGeeks](https://www.geeksforgeeks.org/employee-database-management-system-using-html-css-and-javascript/)
 
-### 2. Progress Bar Implementation
+### 2. Progress Bar Implementation.
 > A common frontend interview question
 - Frequently asked at Meta, Google, and Uber
 - [View Solution](https://github.com/Vegadjay/Interview_Questions_Solutions/tree/main/progress_bar_problem)
+
+- ### 3. Pagination In React.
+> A common frontend interview question
+- Frequently asked at Swiggy, Flipkart
+- [View Solution](https://github.com/Vegadjay/Interview_Questions_Solutions/tree/main/Pagination_React)
 
 ## Purpose
 This repository is intended to help candidates prepare for machine coding rounds by providing example problems and solutions that are commonly encountered during technical interviews at top tech companies.
